@@ -1,0 +1,565 @@
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe.config
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.pdb
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Main.resources
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Properties.Resources.resources
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.exe
+C:\Users\Денис\source\repos\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.pdb
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Main.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Properties.Resources.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.exe
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.pdb
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe.config
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.pdb
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\EnvDTE.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\stdole.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CopyComplete
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AboutProgram.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.TeachiesSubject.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AnalysisWork.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Children.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Nastroyki.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Events.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Educationseminar.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\RdlCompile.cache
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\RdlCompile.compiled
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.MBD_Add.resources
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe.config
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.pdb
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\EnvDTE.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\stdole.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.MSXML.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csprojAssemblyReference.cache
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AboutProgram.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AnalysisWork.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Children.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Events.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Main.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Educationseminar.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.TeachiesSubject.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Properties.Resources.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Nastroyki.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.GenerateResource.cache
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\RdlCompile.cache
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\RdlCompile.compiled
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CoreCompileInputs.cache
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CopyComplete
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.exe
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.pdb
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.Designer.cs
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsc
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsd
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xss
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMDB.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMB.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.resx
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.resx
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.cs
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.Designer.cs
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.cs
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.Designer.cs
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerDirector.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerZavedusie.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMNOlmp.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Konkurs.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerConcurs.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.ReprViewerMerEdSeminar.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEvens.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.HistorySociableRole.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEducoints.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.EZOMusicSchool.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerRegion.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerAnaliz.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMHKandTech.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Reference.resources
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.resx
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.cs
+C:\Users\Денис\Desktop\Методист\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.Designer.cs
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.HistorySociableRole.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.EZOMusicSchool.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Konkurs.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Reference.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMHKandTech.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.ReprViewerMerEdSeminar.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerAnaliz.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerConcurs.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerDirector.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEducoints.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEvens.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMB.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMDB.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMNOlmp.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerRegion.resources
+G:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerZavedusie.resources
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.resx
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.resx
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.Designer.cs
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.Designer.cs
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.Designer.cs
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsc
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsd
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xss
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.resx
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.cs
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.Designer.cs
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.cs
+G:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.resx
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.resx
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.resx
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.Designer.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.Designer.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.Designer.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsc
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsd
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xss
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.Designer.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.cs
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe.config
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.pdb
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\EnvDTE.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\stdole.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.MSXML.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csprojAssemblyReference.cache
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AboutProgram.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AnalysisWork.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Children.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.HistorySociableRole.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.EZOMusicSchool.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Konkurs.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Events.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Main.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Educationseminar.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Reference.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMHKandTech.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.ReprViewerMerEdSeminar.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerAnaliz.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerConcurs.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerDirector.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEducoints.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEvens.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMB.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMDB.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMNOlmp.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerRegion.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerZavedusie.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.TeachiesSubject.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Properties.Resources.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Nastroyki.resources
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.GenerateResource.cache
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CopyComplete
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.exe
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.pdb
+D:\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.resx
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.resx
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.Designer.cs
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.cs
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.Designer.cs
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.cs
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.Designer.cs
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsc
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsd
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xss
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.resx
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.cs
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.Designer.cs
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe.config
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.pdb
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\EnvDTE.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\stdole.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AboutProgram.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AnalysisWork.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Children.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.HistorySociableRole.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.EZOMusicSchool.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Konkurs.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Events.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Main.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Educationseminar.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Reference.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMHKandTech.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.ReprViewerMerEdSeminar.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerAnaliz.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerConcurs.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerDirector.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEducoints.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEvens.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMB.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMDB.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMNOlmp.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerRegion.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerZavedusie.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.TeachiesSubject.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Properties.Resources.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Nastroyki.resources
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CopyComplete
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.exe
+C:\Users\Student\Desktop\Сандыков Денис Отчет\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.pdb
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.resx
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.resx
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.resx
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.Designer.cs
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.cs
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Main.Designer.cs
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.cs
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMB.Designer.cs
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.cs
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\RepViewerMDB.Designer.cs
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsc
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xsd
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\DBMethodistDataSet.xss
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe.config
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.exe
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ProgramForMetodition.pdb
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\EnvDTE.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\stdole.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\EnvDTE80.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\VSLangProj.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\VSLangProj80.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\VSLangProj2.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.exe.config
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AboutProgram.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.AnalysisWork.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Children.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.HistorySociableRole.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.EZOMusicSchool.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Konkurs.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Events.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Main.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Educationseminar.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Reference.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMHKandTech.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.ReprViewerMerEdSeminar.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerAnaliz.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerConcurs.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerDirector.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEducoints.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerEvens.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMB.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMDB.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerMNOlmp.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerRegion.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.RepViewerZavedusie.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.TeachiesSubject.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Properties.Resources.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.Nastroyki.resources
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.GenerateResource.cache
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.exe
+C:\Users\user\Desktop\11\ProgramForMetodition\ProgramForMetodition\obj\Debug\ProgramForMetodition.pdb
