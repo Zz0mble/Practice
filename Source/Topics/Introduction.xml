@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-11T11:55:36.487+07:00" lasteditedby="Денис" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Работа с программой</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Работа с программой</para>
+    </header>
+    <para styleclass="Normal">Программа для работы с РМО включает себя данные отчетов за год.</para>
+  </body>
+</topic>

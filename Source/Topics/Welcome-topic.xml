@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-12T09:57:11.285+07:00" lasteditedby="Денис" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Меню программы</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Меню программы</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="clip0001.png" scale="78.61%" width="862" height="544" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">В таблице расположены Конкурсы Семинары Мероптиятия для работы с методическим управлением</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Далее в центре расположено информация необходимая для работы с программой РМО. Которая включает в себя школы, садики, заведущих и директоров.</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

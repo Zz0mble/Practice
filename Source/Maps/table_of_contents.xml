@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="442969968091579" build="ALL" modified="2021-04-11T11:36:28.101Z" icon="0" href="Introduction">
+    <caption translate="true">Работа с программой</caption>
+    <topicref type="topic" id="442970025278349" build="ALL" modified="2021-04-11T12:01:00.513Z" icon="0" href="Welcome-topic">
+      <caption translate="true">Меню программы</caption>
+    </topicref>
+    <topicref type="topic" id="442969737881653" build="ALL" modified="2021-04-11T12:01:27.336Z" icon="0" href="Second-topic">
+      <caption translate="true">Отчет программы</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442969719980640" build="ALL" modified="2021-04-12T09:19:15.837Z" icon="0" href="Chapter-2">
+    <caption translate="true">About program</caption>
+    <topicref type="topic" id="442968545689475" build="ALL" modified="2021-04-10T22:44:08.874Z" icon="0" href="Overview">
+      <caption translate="true">Overview</caption>
+    </topicref>
+    <topicref type="topic" id="442969892829844" build="ALL" modified="2021-04-10T22:44:09.039Z" icon="0" href="Sub-chapter-2_1">
+      <caption translate="true">Sub chapter 2.1</caption>
+      <topicref type="topic" id="442968753832291" build="ALL" modified="2021-04-10T22:44:09.201Z" icon="0" href="New-topic">
+        <caption translate="true">New topic</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+</map>

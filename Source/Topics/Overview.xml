@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-12T10:00:43.014+07:00" lasteditedby="Денис" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Overview</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Данная программа разработана студентом Колледжа педагогического образования информатики и права &#160;группы И-41 Сандыков Денис.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Данная ПО создана для обеспечения автоматизированного рабочего места методиста управления образованием администрации Аскизского района</text></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Все права защищены ©2021</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

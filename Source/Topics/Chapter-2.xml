@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2021-04-12T09:19:23.142+07:00" lasteditedby="Денис" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>About program</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">About program</para>
+    </header>
+    <para styleclass="Normal">Enter topic text here.</para>
+  </body>
+</topic>
